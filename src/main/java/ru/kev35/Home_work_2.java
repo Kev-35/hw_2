@@ -8,6 +8,6 @@ public class Home_work_2 {
 
     }
     public void Hello(){
-        System.out.print("Создаём конфликт!");
+        System.out.print("Конфликт создан!");
     }
 }
